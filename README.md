@@ -5,7 +5,7 @@
 ## ¿Quién soy? 
 Soy un **Programador _Fullstack_** orientado al diseño de ***Back-end*** .
 Desde que tengo 18 años me ha interesado el mundo de la programación. Mi primer Lenguaje
-fue **Java** 
+fue **Java** , pero actualmente sigo perfeccionándolo y aprendiendo.
 
 ## ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
