@@ -1,11 +1,8 @@
  # Hola! Mi nombre es Kevin Jeremias :wave:
- ### También conocido como jerebrrs en GitHub 
-
 
 ## ¿Quién soy? 
-Soy un **Programador _Fullstack_** orientado al diseño de ***Back-end*** .
-Desde que tengo 18 años me ha interesado el mundo de la programación. Mi primer Lenguaje
-fue **Java** , pero actualmente sigo perfeccionándolo y aprendiendo.
+Soy **Full_Stack_Web_Developer_** con un enfoque principal orientado al ***Back-end*** :man_technologist: 
+Ademas cuento con formación en carreras de **Ciencias_Económicas** , lo que me permite aportar lógica y solución de problemas en diferentes entornos. 
 
 ## ¿Qué hago?
 Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como 
