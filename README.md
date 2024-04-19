@@ -15,7 +15,7 @@ I am passionate about broadening my perspective of the things that exist in the 
 solutions to problems that we thought were already solved.🚀 
 
 	
-##  **SKILLS**<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
    <a display: inline-block> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37" /></a><a display: inline-block > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="37"/></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="37"/><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="37" /></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="37" /></a><a display: inline-block> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="37"/></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="37"/></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="37"/></a><a color='fff' display: inline-block> <img src="https://libreriasjs.com/wp-content/uploads/2023/02/logo_express-1.png" width="37"/></a><a display: inline-block>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="37" /> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a>
   
@@ -46,7 +46,14 @@ Currently training in:
 <img src="https://img.shields.io/badge/gmail:  Kevin-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<li>
+<a href="https://portfoliokjb.vercel.app" target="_blank">
+<img src="https://img.shields.io/badge/portfolio:  kevin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logoColor=white" alt=portfolio style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+ 
 </ul>
 </div>
 
@@ -59,7 +66,7 @@ Currently training in:
 <div align='center'>
 
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
 
