@@ -1,33 +1,30 @@
-<h1 align="center"><b>Hi , I'm Kevin Jeremias </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Kevin Jeremías.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer"></a>
 </p>
 
-I am **Full Stack** with a main focus oriented to the ***Back-end*** :man_technologist: .
-I also have training in Economic Sciences, which allows me to provide logic and problem solving in different environments.
+Soy desarrollador **Web Full Stack** con principal enfoque en ***Back-end*** :man_technologist: .
+Cuento con un Background en Ciencias Económicas, lo cual me ha permitido desarrollar soft skills como pensamiento lógico y resolución de problemas, aplicándolos en diferentes entornos de desarrollo.
 
 ##
-Currently, I continue training as a professional in the IT world. Although I have a broad command of technologies, I am perfecting my logic and learning new languages ​​and tools to use in the development of software structures.
+Cuento con sólidos conocimientos en diversas tecnologías como Javascript, Typescript así como frameworks Frontend como React/Redux. Mi enfoque principal se centra en el BackEnd donde tengo experiencia con
+tecnologías como NestJs, NodeJs, Express.js,GraphQL, SqLite, MongoDB, PostgreSQL, Docker, Google
+Cloud.
 
-I not only enjoy programming because of the amount of demand there is in the market. But really
-I am passionate about broadening my perspective of the things that exist in the world and finding new ones.
-solutions to problems that we thought were already solved.🚀 
+Mi objetivo es contribuir de manera significativa en equipos de desarrollo, colaborando en la creación de soluciones robustas y eficientes que impulsen el éxito de los proyectos en el área que me toque desempeñar 🚀 
 
 	
-## **Skill** <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
-
-   <a display: inline-block> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37" /></a><a display: inline-block > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="37"/></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="37"/><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="37" /></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="37" /></a><a display: inline-block> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="37"/></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="37"/></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="37"/></a><a color='fff' display: inline-block> <img src="https://libreriasjs.com/wp-content/uploads/2023/02/logo_express-1.png" width="37"/></a><a display: inline-block>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="37" /> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a>
+## **Skills** 
+   <a display: inline-block> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37" /></a><a display: inline-block > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"  width="37"/></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  width="37"/><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="37" /></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="37" /></a><a display: inline-block> <img src="https://cd  n.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="37"/></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="37"/></a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" width="37"/></a><a color='fff' display: inline-block> <img src="https://libreriasjs.com/wp-content/uploads/2023/02/logo_express-1.png" width="37"/></a><a display: inline-block>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="37" /> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a><a display: inline-block> </a> </a><a display: inline-block> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="37" /></a> </a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="37" /></a>
   
  <i class="devicon-express-original"></i>
  
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-Currently training in:
-  
- </a><a display: inline-block> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="37" /></a> </a><a display: inline-block><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="37" /></a>
 
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+
+## <b> Conectemos..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
 
 <div align='left'>
