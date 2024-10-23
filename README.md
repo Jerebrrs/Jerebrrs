@@ -45,7 +45,7 @@ Mi objetivo es contribuir de manera significativa en equipos de desarrollo, cola
 </li>
 
 <li>
-<a href="https://portfoliokjb.vercel.app" target="_blank">
+<a href="https://kevin-dev.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/portfolio:  kevin-%2300acee.svg?color=1DA1F2&style=for-the-badge&logoColor=white" alt=portfolio style="margin-bottom: 5px;"/>
 </a>
 </li>
