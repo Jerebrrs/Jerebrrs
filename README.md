@@ -1,18 +1,17 @@
 <h1 align="center"><b>Hola, soy Kevin Jeremías.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer"></a>
 </p>
 
-Soy desarrollador **Web Full Stack** con principal enfoque en ***Back-end*** :man_technologist: .
-Cuento con un Background en Ciencias Económicas, lo cual me ha permitido desarrollar soft skills como pensamiento lógico y resolución de problemas, aplicándolos en diferentes entornos de desarrollo.
 
-##
-Cuento con sólidos conocimientos en diversas tecnologías como Javascript, Typescript así como frameworks Frontend como React/Redux. Mi enfoque principal se centra en el BackEnd donde tengo experiencia con
-tecnologías como NestJs, NodeJs, Express.js,GraphQL, SqLite, MongoDB, PostgreSQL, Docker, Google
-Cloud.
+Hola, soy un desarrollador de software con experiencia en frontend y backend, con un enfoque especializado en la creación de soluciones robustas y escalables. Mi formación y experiencia me permiten abordar proyectos de desarrollo completo con una visión integral y eficiente.
 
-Mi objetivo es contribuir de manera significativa en equipos de desarrollo, colaborando en la creación de soluciones robustas y eficientes que impulsen el éxito de los proyectos en el área que me toque desempeñar 🚀 
+En Frontend, manejo tecnologías como JavaScript, TypeScript y frameworks modernos como React y Next.js, además de trabajar con estilos usando CSS y Tailwind. En Backend, mi especialización está en Java y Spring Boot, complementada con experiencia en NestJS, Node.js, Express.js y GraphQL. También tengo conocimientos en bases de datos como SQLite, PostgreSQL y MongoDB, junto con herramientas clave como Docker y Google Cloud para despliegues en la nube.
+
+Actualmente, estoy cursando la carrera de Técnico en Programación en la Universidad Tecnológica Nacional (UTN), lo que refuerza mi enfoque técnico y mi deseo de seguir aprendiendo.
+
+Mi objetivo es aportar a equipos de desarrollo con soluciones innovadoras, ya sea en la creación de interfaces atractivas o en el diseño de arquitecturas backend sólidas. Siempre estoy abierto a explorar nuevas herramientas y tecnologías que sumen valor a los proyectos en los que participo.
 
 	
 ## **Skills** 
